@@ -9,3 +9,8 @@ p{
     margin: 5%;
     font-family: sans-serif;
 }
+ul{
+    background-color: lightblue;
+    border: solid black;
+    border-radius: 20%;
+}
